@@ -1,6 +1,6 @@
 # Fan-Speed-Controller-With-Temperature
 ## I implemented the Fan Controller system with the specifications listed below:
-### 1- The aim of this project is to design a temperature-controlled fan using ATmega32 microcontroller, in which the fan is automatically turned ON or OFF according to the temperature. I Used ATmega32 Microcontroller with frequency 1Mhz.
+### 1- The aim of this project is to design a temperature-controlled fan using ATmega32 microcontroller, in which the fan is automatically turned ON or OFF according to the temperature. I used ATmega32 Microcontroller with frequency 1Mhz.
 ### 2- In this project, the LM35 temperature sensor will give continuous analog output corresponding to the temperature sensed by it. This analog signal is given to the ADC, which converts the analog values to digital values.
 ### 3- The digital output of the ADC is equivalent to sensed analog voltage.
 ### 4- In order to get the temperature from the sensed analog voltage, we need to perform some calculations in the programming for the microcontroller.
